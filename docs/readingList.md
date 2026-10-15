@@ -144,5 +144,3 @@ This paper connects technical attack mechanisms with operational controls. For e
 Likewise, a compromised tool is a supply-chain problem, but risk can be reduced through trusted distribution, version management, isolation, restricted privileges, and auditing. These controls may not eliminate every attack, but they can reduce the probability or impact of compromise.
 
 The governance perspective is useful because some controls are organisational rather than protocol-level. A private registry or approval process may be appropriate for an enterprise deployment even if it is not part of the MCP specification itself.
-
----

@@ -1,0 +1,3 @@
+        Password security guide:
+        Use a password manager to generate and store unique passwords.
+        Avoid reusing passwords across different services.

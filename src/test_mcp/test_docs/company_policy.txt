@@ -1,0 +1,3 @@
+Company password policy:
+Employees should use strong, unique passwords.
+Multi-factor authentication should be enabled where available.
